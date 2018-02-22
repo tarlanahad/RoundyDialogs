@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="FontableTextView">
+        <attr name="typeface" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="FontableButton">
+        <attr name="btn_font" format="string"/>
+    </declare-styleable>
+
+
+</resources>
