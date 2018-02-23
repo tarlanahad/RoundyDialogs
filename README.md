@@ -1,6 +1,9 @@
 # RoundyDialogs
+Highly customizable simple alert dialog implementation
+## Screenshot
 
-## Screenshots here
+![GIF](https://github.com/tarlanahad/RoundyDialogs/blob/master/ezgif-1-1b55732ddd.gif)
+
 
 
 ## Requirements
