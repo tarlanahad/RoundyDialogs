@@ -1,13 +1,11 @@
 # RoundyDialogs
-_______________________________
+
 ### Screenshots here
-_______________________________
+
 ### Requirements
-__________________________
 * Android SDK 16+
 
 ### Usage
-___________________________
 Add to your root build.gradle:
 
 ```
@@ -26,7 +24,6 @@ Add the dependency:
 	}
   ```
   ### How to use in your library project
-  _____________
 To use the library you just should know that all implementations extends Dialog class in this Library. That's why you can use dialog methods in this library as well.
 
 Create your dialog just like this.
