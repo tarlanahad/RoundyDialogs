@@ -132,4 +132,4 @@ Generally, you can customize all you see in the dialogs 💪
         dialog.show();
 ```
 ## Important
-To use the fonts, add all of them to **assets/fonts/** and use like setFont("fontname.fontEnding")
+To use the fonts, add all of them to **assets/fonts/** and use like *setFont("fontname.fontEnding")*
